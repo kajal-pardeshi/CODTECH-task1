@@ -1,8 +1,12 @@
 # CODTECH-task1
 Name:kajal ravishnkar pardeshi
+
 ID:CT08DS369
+
 Domain:software development
+
 Duration:05/12/2024 to 05/01/2025
+
 Mentor:Muzammil
 
 Course Objective for Task Management App
