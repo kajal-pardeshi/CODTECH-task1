@@ -1,6 +1,8 @@
 # CODTECH-task1
 Name:kajal ravishnkar pardeshi
 
+company:CODTECH IT SOLUTIONS
+
 ID:CT08DS369
 
 Domain:software development
